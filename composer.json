@@ -9,6 +9,10 @@
         {
             "type": "composer",
             "url": "https://nova.laravel.com"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/devmtm/laravel-tags"
         }
     ],
     "homepage": "https://github.com/spatie/nova-tags-field",
