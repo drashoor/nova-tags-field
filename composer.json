@@ -26,7 +26,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel/nova": "^2.0",
+        "laravel/nova": "^1.0",
         "spatie/laravel-tags": "3.3"
     },
     "require-dev": {
