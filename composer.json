@@ -9,10 +9,6 @@
         {
             "type": "composer",
             "url": "https://nova.laravel.com"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/drashoor/laravel-tags"
         }
     ],
     "homepage": "https://github.com/spatie/nova-tags-field",
@@ -26,8 +22,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel/nova": "*",
-        "spatie/laravel-tags": "*"
+        "laravel/nova": "*"
     },
     "require-dev": {
         "mockery/mockery": "^1.1",
